@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BKAllocatedSize</key>
+	<integer>4464640</integer>
+	<key>BKDisplayName</key>
+	<string>极简主义企业家：伟大创始人如何以少做多-Sahil Lavingia - The Minimalist Entrepreneur_ How Great Founders Do More with Less (2021)</string>
+	<key>BKGenerationCount</key>
+	<integer>2</integer>
+	<key>BKInsertionDate</key>
+	<integer>765253734</integer>
+	<key>artistName</key>
+	<string>Sahil Lavingia</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>4C87AD3F625485BCE2CB080A2E1C107A</string>
+		<key>cover-image-path</key>
+		<string>cover.jpeg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>6FC46EA2F8DBA479C41F00ECA55A23AD</string>
+		<key>publisher-unique-id</key>
+		<string>4643113849888</string>
+		<key>unique-id</key>
+		<integer>3735607535042370138</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>bookDescription</key>
+	<string>&lt;b&gt;&lt;b&gt;&amp;ldquo;Pay attention.&amp;rdquo;&amp;mdash;Jason Fried&lt;/b&gt;&lt;br&gt; &lt;br&gt;A revolutionary roadmap for building startups that go the distance&lt;/b&gt;&lt;br&gt; &amp;#160;&lt;br&gt; Now more than ever, you don&amp;rsquo;t need a fancy office, Ivy League degree, or millions of dollars in venture capital to launch a business that matters for the communities you care most about. Software, the internet, and remote work have made it possible for entrepreneurs to start for free, make a customer of anyone, and grow a profitable, sustainable company from anywhere.&amp;#160;&lt;br&gt;   &lt;br&gt; Packed with hard-won, battle-tested lessons from Lavingia&amp;rsquo;s own journey of building Gumroad, a platform for creators to sell their work, &lt;i&gt;The Minimalist Entrepreneur&lt;/i&gt; teaches founders how to:&lt;br&gt; &amp;#160;&lt;br&gt; &amp;#160;&amp;#160;&amp;bull;&amp;#160; start then learn&lt;br&gt; &amp;#160;&amp;#160;&amp;bull;&amp;#160; build a community, then solve a problem for them&lt;br&gt; &amp;#160;&amp;#160;&amp;bull;&amp;#160; charge for something even before you&amp;rsquo;ve built anything&lt;br&gt;...</string>
+	<key>isPreview</key>
+	<false/>
+	<key>itemName</key>
+	<string>The Minimalist Entrepreneur: How Great Founders Do More with Less</string>
+	<key>updateDate</key>
+	<date>2025-04-02T02:28:54Z</date>
+</dict>
+</plist>

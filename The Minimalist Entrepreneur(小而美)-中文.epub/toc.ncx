@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta name="dtb:uid" content="a736b990-ac7e-4393-b136-9976f6721ebc"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.11.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text default-translate="no">极简主义企业家：伟大创始人如何以少做多 - The Minimalist Entrepreneur: How Great Founders Do More with Less</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1" class="chapter">
+      <navLabel>
+        <text default-translate="no">介绍 - Introduction</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+      <navPoint id="num_2" playOrder="10" class="chapter">
+        <navLabel>
+          <text default-translate="no">还有一件事 - One More Thing</text>
+        </navLabel>
+        <content src="index_split_019.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text default-translate="no">1 • 极简主义企业家 - 1 • The Minimalist Entrepreneur</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text default-translate="no">2 • 从社区开始 - 2 • Start with Community</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text default-translate="no">3 • 尽量少做 - 3 • Build as Little as Possible</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="5" class="chapter">
+      <navLabel>
+        <text default-translate="no">4 • 向你的首批一百位客户销售 - 4 • Sell to Your First Hundred Customers</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="6" class="chapter">
+      <navLabel>
+        <text default-translate="no">5 • 以真实的自我进行营销 - 5 • Market by Being You</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="7" class="chapter">
+      <navLabel>
+        <text default-translate="no">6 • 有意识地发展自己和你的事业 - 6 • Grow Yourself and Your Business Mindfully</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="8" class="chapter">
+      <navLabel>
+        <text default-translate="no">7 • 建造你想居住的房子 - 7 • Build the House You Want to Live In</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="9" class="chapter">
+      <navLabel>
+        <text default-translate="no">8 • 我们从这里去往何方？ - 8 • Where Do We Go from Here?</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+      <navPoint id="num_11" playOrder="11" class="chapter">
+        <navLabel>
+          <text default-translate="no">致谢 - Acknowledgments</text>
+        </navLabel>
+        <content src="index_split_022.html"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12" class="chapter">
+        <navLabel>
+          <text default-translate="no">笔记 - Notes</text>
+        </navLabel>
+        <content src="index_split_023.html"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13" class="chapter">
+        <navLabel>
+          <text default-translate="no">索引 - Index</text>
+        </navLabel>
+        <content src="index_split_032.html"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
